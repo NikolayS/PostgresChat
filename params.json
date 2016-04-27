@@ -1,0 +1,6 @@
+{
+  "name": "PostgresChat",
+  "tagline": "All PostgreSQL-related chats in one place",
+  "body": "English\r\n---\r\n* https://postgres-slack.herokuapp.com/ (Slack)\r\n* https://gitter.im/postgresmen/postgresql (Gitter, Github login is needed)\r\n* irc://irc.freenode.net/postgresql (IRC, old school)\r\n* http://telegram.me/PostgresChat (Telegram)\r\n\r\nРусский (Russian)\r\n---\r\n* https://gitter.im/postgresmen/postgresqlrussia (Gitter, вход с помощью Github-аккаунта)\r\n* https://goo.gl/b0bQs6 (Telegram)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
